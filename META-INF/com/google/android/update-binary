@@ -43,6 +43,7 @@ ui_print "    \ \_\-\_\ \____$s \_\ \ \_\ \_\ \____\/\____\ ";
 ui_print "     \/_/\/_/\/____/ \/_/  \/_/\/_/\/____/\/____/ ";
 ui_print " ";
 ui_print "                   by jzinferno                   ";
+ui_print "                 modified by glbl                 ";
 ui_print "==================================================";
 ui_print " Build date       : $(cat $JHOME/files/build_date)";
 if [ "$device" = "jd2019" ]; then
